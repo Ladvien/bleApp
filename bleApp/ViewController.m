@@ -37,6 +37,7 @@
     self.accelerationSlider.transform = CGAffineTransformMakeRotation(M_PI_2);
     
     
+    
 }
 
 - (void)didReceiveMemoryWarning
